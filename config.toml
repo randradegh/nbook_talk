@@ -1,0 +1,8 @@
+[server]
+headless = true
+enableCORS = false
+port = 8501
+maxMessageSize = 2000000
+# Establecer el ancho de la aplicación y el color de fuente a blanco
+width = "100%"
+font_color = "white"
